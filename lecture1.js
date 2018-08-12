@@ -1,3 +1,5 @@
+//create an object and traverse all atts
+
 var book = {
 	name: 'Functional Javascript',
 	author: 'Micbeal Fogus',
