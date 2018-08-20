@@ -32,3 +32,6 @@ for(var properties in book){
 	console.log(properties +' = '+ book[properties])
 }
 
+///////////
+var arr= [3,4,6,10,3]
+arr[3];
